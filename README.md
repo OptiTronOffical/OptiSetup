@@ -1,4 +1,5 @@
-
+[![IMG-20261031-052052.jpg](https://i.postimg.cc/prmDV6mn/IMG-20261031-052052.jpg)](https://postimg.cc/BPG8MNcq)
+[![Screenshot-2026-10-31-05-26-39.png](https://i.postimg.cc/pT2CvCQw/Screenshot-2026-10-31-05-26-39.png)](https://postimg.cc/jWFPQzFc)
 
 # ps4 torrent client — Easy Setup README
 
