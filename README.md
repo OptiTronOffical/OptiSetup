@@ -106,4 +106,4 @@ From the Web UI you can add torrents, pause/resume, check progress, and adjust u
 
 - **Original ps4torrent project:** **sergiopoverony**
 - **2,600-game library:** **optitronoffical**
-- **Testing:** only running/downloading on **PS4 Pro 13.52**; no further testing has been done.
+- Testing only running/downloading on **PS4 Pro 13.52**; no further testing has been done. **optitronoffical**
