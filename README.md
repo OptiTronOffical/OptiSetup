@@ -3,6 +3,8 @@
 
 # ps4 torrent client — Easy Setup README
 
+NOTE: the full torrents library causes crashes, put the torrents folder in the supplied zip somewhere safe and only put on the torrents you want at the time
+
 **Credits**
 - **Original ps4torrent project:** **sergiopoverony**
   - https://github.com/sergiopoverony/ps4torrent
